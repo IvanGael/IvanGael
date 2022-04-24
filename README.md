@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img src="IAI.jpg" align="right"/>
+<img src="IAI.jpg" style="float: right;"/>
 
 <br>
 
