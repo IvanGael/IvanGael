@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <h1 align="center">Hi 👋, I'm Ivan APEDO</h1>
 <h3 align="center">I am currently in my third year of study at the IAI-TOGO (Insitut Africain d'Informatique) in the cycle of engineers of computer works option software engineering and information system🌟.</h3>
 
@@ -38,8 +36,7 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-apedo-b8a0781ba/) 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IvanGal19) 
-[![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](+22891120924?text=cc)
-
+[![Whatsapp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+22891120924?text=Salut%20Ivan)
 </p>
 
 <br>
@@ -106,7 +103,7 @@ Here are some ideas to get you started:
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> 
-    </a> 
+    </a>  
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> 
@@ -115,7 +112,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3>My stats :-</h3>
+<h3>My stats</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanGael&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="IvanGael" 
