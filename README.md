@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img src="IAI.jpg" align="center" width="100%"/>
+<img src="IAI.jpg" align="center" width="100%" height="25%"/>
 
 <br>
 
