@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<a href="https://www.iai-togo.tg/" target="blank">
+<a href="https://www.iai-togo.tg/" target="_blank" rel="noopener noreferrer" >
   <img src="IAI.jpg" style="float: right;"/>
 </a>
 
