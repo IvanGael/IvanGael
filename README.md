@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img src="IAI.jpg" style="margin-left: 50%;"/>
+<img src="IAI.jpg" align="right"/>
 
 <br>
 
