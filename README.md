@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ivan APEDO</h1>
-<h3 align="center">I am currently in my third year of study at the IAI-TOGO (Insitut Africain d'Informatique) in the cycle of engineers of computer works option software engineering and information system🌟.</h3>
+<h3 align="center">I am currently in my third year of study at the IAI-TOGO (Institut Africain d'Informatique) in the cycle of engineers of computer works option software engineering and information system🌟.</h3>
 
 <br>
 
