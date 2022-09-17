@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ivan APEDO</h1>
-<h3 align="center">I am currently in my third year of study at the IAI-TOGO (Institut Africain d'Informatique) in the cycle of engineers of computer works option software engineering and information system🌟.</h3>
-
-<br>
-
-<a href="https://www.iai-togo.tg/" target="_blank" rel="noopener noreferrer" >
-  <img src="IAI.jpg" style="float: right;"/>
-</a>
+<h3 align="center">I am currently make study at the engineering school Polytech Nice Sophia in the second year of engineering cycle🌟.</h3>
 
 <br>
 
@@ -29,7 +23,7 @@ Here are some ideas to get you started:
 <p><img align="right" src="animation_500_kxa883sd.gif" alt="IvanGael" /></p>
 
 
-- 🌱 I am passionate about web development but recently I got into mobile as well.
+- 🌱 I am very interested in Software Design (especially based on microservices), Big data and Artificial Intelligence..
 
 - 📫 How to reach me **apedoivan@gmail.com**
 
