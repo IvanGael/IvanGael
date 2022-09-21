@@ -21,14 +21,10 @@ Polytech Nice Sophia🌟.</h3>
 <br>
 
 
-<p><img align="right" src="animation_500_kxa883sd.gif" alt="IvanGael" /></p>
+<p><img align="right" src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" alt="IvanGael" /></p>
 
 
-- 🌱 I am very interested in Software Design (especially based on microservices), Big data and Artificial Intelligence..
 
-- 📫 How to reach me **apedoivan@gmail.com**
-
-- ⚡ Fun fact :- Food, Music🎵 and friendship are the reasons to live.
 
 <br>
 
