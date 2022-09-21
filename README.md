@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ivan APEDO</h1>
-<h3 align="center">I am currently make study at the engineering school Polytech Nice Sophia in the second year of engineering cycle🌟.</h3>
+<h3 align="center">I am currently in the second year of the engineering cycle at the engineering school
+Polytech Nice Sophia🌟.</h3>
 
 <br>
 
