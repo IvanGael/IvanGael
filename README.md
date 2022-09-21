@@ -27,7 +27,6 @@ Polytech Nice Sophia🌟.</h3>
 
 - 📫 How to reach me **apedoivan@gmail.com**
 
-- ⚡ Fun fact :- Food, Music🎵 and friendship are the reasons to live.
 
 
 
