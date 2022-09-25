@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to my github page 😇</h1>
+<!--<h1 align="center">Welcome to my github page 😇</h1>
 
-<p><img align="center" src="https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif" alt="IvanGael" width="100%" height="300px"/></p>
+<p><img align="center" src="https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif" alt="IvanGael" width="100%" height="300px"/></p>-->
 
 <!--
 **IvanGael/IvanGael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
