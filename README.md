@@ -1,4 +1,4 @@
-### Welcome to my github page 😎
+<h1 align="center">Welcome to my github page 😎</h1>
 
 <p><img align="center" src="https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif" alt="IvanGael" width="100%" height="300px"/></p>
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Ivan APEDO</h1>
+<h2 align="left">Hi 👋, I'm Ivan APEDO</h2>
 <h3 align="center">I am currently in the second year of the engineering cycle at the engineering school
 Polytech Nice Sophia🌟.</h3>
 
