@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">My first name is Ivan, and I am passionate about creating projects, particularly those that relate to the world of IT development. Currently I'm in the second year of the engineering cycle at the engineering school Polytech Nice Sophia.</h3>
+<h3 align="left">My first name is Ivan, and I am passionate about creating projects in domain of IT. Currently I'm in the second year of the engineering cycle at the engineering school Polytech Nice Sophia.</h3>
 
 <br>
 
