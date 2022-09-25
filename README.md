@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋, I'm Ivan APEDO</h2>
-<h3 align="center"><p>I am currently in the second year of the engineering cycle at the engineering school Polytech Nice Sophia.</p></h3>
+<h2 align="left">I'm Ivan APEDO and currently I'm in the second year of the engineering cycle at the engineering school Polytech Nice Sophia.</h2>
+
 
 
 <br>
