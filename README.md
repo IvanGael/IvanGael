@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 <br>
 
+
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
@@ -103,6 +105,7 @@ Here are some ideas to get you started:
       height="60" /> 
     </a> 
 </p>
+-->
 
 <br>
 
