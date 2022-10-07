@@ -41,13 +41,8 @@ Here are some ideas to get you started:
 <br>
 
 
-<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="60" height="60" /> 
-    </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="60" height="60" /> 
@@ -79,19 +74,10 @@ Here are some ideas to get you started:
       alt="javascript" width="60" height="60" /> 
     </a> 
     
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="60" height="60" /> 
-    </a> 
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="60" height="60" /> 
-    </a> 
-    <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="60" height="60" /> 
-    </a> 
+    </a>  
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="60" height="60" /> 
@@ -100,12 +86,9 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="60" height="60" /> 
     </a>  
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60"
-      height="60" /> 
-    </a> 
+    
 </p>
--->
+
 
 <br>
 
@@ -121,4 +104,4 @@ Here are some ideas to get you started:
     alt="IvanGael" /></p>
 
 
-[IvanGael](https://github.com/IvanGael)
+<!--[IvanGael](https://github.com/IvanGael)-->
