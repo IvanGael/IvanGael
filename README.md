@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello ! It's Ivan. <br>Computer science student at Polytech Nice Sophia | Software engineer Loading...<br><br>
+Hello ! It's Ivan. <br>Computer science student | Software engineer <br><br>
 
 
 ## 🌐 Socials:
