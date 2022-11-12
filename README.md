@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello ! It's Ivan. <br>Computer science student | Software engineer <br><br>
+Hello everybody and welcome on my Github profile ! It's Ivan. <br>Computer science student | Software engineer <br><br>
 
 
 ## 🌐 Socials:
