@@ -23,6 +23,8 @@ Hello everybody and welcome on my Github profile ! It's Ivan. <br>Computer scien
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
+[![Ivan GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=IvanGael&&theme=xcode)](https://github.com/IvanGael)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IvanGael&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
