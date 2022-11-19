@@ -2,8 +2,7 @@
 
 <h3 align="center">Hello everybody and welcome on my Github profile.</h3>
 <hr/>
-<h1 align="center">It's Ivan!</h1>
-<h2 align="center">Computer science student | Software engineer </h2>
+<h4 align="center">It's Ivan! I am a passionate web & mobile developer.</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IvanGael&label=Profile%20views&color=0e75b6&style=flat" alt="IvanGael" /> </p>
