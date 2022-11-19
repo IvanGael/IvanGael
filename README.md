@@ -1,7 +1,8 @@
 <img align="center" alt="Coding" width="800px" height="320px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-# 💫 About Me:
-Hello everybody and welcome on my Github profile ! It's Ivan. <br>Computer science student | Software engineer <br><br>
+<h1 align="center">Hello everybody and welcome on my Github profile. It's Ivan!</h1>
+<h3 align="center">Computer science student | Software engineer </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IvanGael&label=Profile%20views&color=0e75b6&style=flat" alt="IvanGael" /> </p>
 
