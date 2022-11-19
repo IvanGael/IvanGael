@@ -2,11 +2,10 @@
 
 <h3 align="center">Hello everybody and welcome on my Github profile.</h3>
 <hr/>
-<h4 align="left">It's Ivan! I am a passionate web & mobile developer.</h1>
+<h4 align="center">It's Ivan! I am a passionate web & mobile developer.</h1>
 
 
-
-# 💻 Tech Stack:
+<h2 align="center"># 💻 Tech Stack:</h2>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
