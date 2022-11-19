@@ -38,6 +38,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+<img align="center" alt="Coding" width="800px" height="320px" src="https://drive.google.com/file/d/1dsdlPA7lL5miMELCdo-CUbyaoq29IXIZ/view?usp=share_link">
+
 <!--
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
