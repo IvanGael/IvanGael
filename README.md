@@ -39,7 +39,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<img align="center" alt="Coding" width="800px" height="320px" src="gtb.png">
+<img align="center" alt="Coding" width="800px" height="200px" src="gtb.png">
 
 <!--
 ### 😂 Random Dev Meme
