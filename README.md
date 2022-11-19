@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello everybody and welcome on my Github profile ! It's Ivan. <br>Computer science student | Software engineer <br><br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IvanGael&label=Profile%20views&color=0e75b6&style=flat" alt="IvanGael" /> </p>
+
 
 
 # 💻 Tech Stack:
