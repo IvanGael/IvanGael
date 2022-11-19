@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800px" height="320px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width="800px" height="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="center">Hello everybody and welcome on my Github profile.</h3>
 <hr/>
