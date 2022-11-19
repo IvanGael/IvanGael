@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800px" height="400px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width="800px" height="320px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me:
 Hello everybody and welcome on my Github profile ! It's Ivan. <br>Computer science student | Software engineer <br><br>
