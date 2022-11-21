@@ -31,9 +31,10 @@
 
 <details>
   <summary><b> 💻 Contribution</b></summary>
-    [![Ivan GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=IvanGael&&theme=xcode)](https://github.com/IvanGael)
+    
 </details>
 
+[![Ivan GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=IvanGael&&theme=xcode)](https://github.com/IvanGael)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IvanGael&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
