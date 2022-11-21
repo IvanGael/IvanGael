@@ -1,8 +1,14 @@
 <img align="center" alt="Coding" width="800px" height="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h3 align="center">Hello everybody and welcome on my Github profile.</h3>
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
+
+<!-- <h3 align="center">Hello everybody and welcome on my Github profile.</h3>
 <hr/>
-<h4 align="center">It's Ivan! I am a passionate web & mobile developer.</h1>
+<h4 align="center">It's Ivan! I am a passionate web & mobile developer.</h1> -->
 
 
 # 💻 Tech Stack:
