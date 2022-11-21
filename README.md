@@ -31,9 +31,7 @@
 
 <details>
   <summary><b> 💻 Contribution</b></summary>
-    <p>
-![Ivan GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=IvanGael&&theme=xcode)](https://github.com/IvanGael)
-    </p>
+    [![Ivan GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=IvanGael&&theme=xcode)](https://github.com/IvanGael)
 </details>
 
 
