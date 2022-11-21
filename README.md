@@ -30,18 +30,16 @@
 
 
 <details>
-  <summary><b> 💻 Contribution</b></summary>
+  <summary><b> 📊 GitHub Stats</b></summary>
   <p>
-    [![Ivan GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=IvanGael&&theme=xcode)](https://github.com/IvanGael)
+    ![](https://github-readme-stats.vercel.app/api?username=IvanGael&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=IvanGael&theme=buefy&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </p>
 </details>
 
+[![Ivan GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=IvanGael&&theme=xcode)](https://github.com/IvanGael)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IvanGael&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IvanGael&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### ✍️ Random Dev Quote
