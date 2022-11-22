@@ -6,9 +6,7 @@
 <!--   <img src="Hi.gif" width="40px" /> -->
 </h1>
 
-<details>
-  <summary><b> 💻 Tech Stack</b></summary>
-    <p>
+<b> 💻 My Tech Stack</b>
 
 | **Category** | **Technologies** |
 | - | - |
@@ -21,8 +19,6 @@
       
 ----      
 
-  </p>
-</details>
 
 
 
