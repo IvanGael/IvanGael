@@ -32,12 +32,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IvanGael&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<b> ✍️ Dev Quote</b>
+<!-- <b> ✍️ Dev Quote</b>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 
-<img align="center" alt="Coding" width="800px" height="80px" src="gtb.png">
+
 
 <!--
 ### 😂 Random Dev Meme
