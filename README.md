@@ -4,6 +4,9 @@
   <img src="Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
 <!--   <img src="Hi.gif" width="40px" /> -->
+</h1>
+
+<h1 align="center">
   <a href="https://www.github.com/IvanGael" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IvanGael?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </h1>
