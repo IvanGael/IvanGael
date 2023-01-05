@@ -23,9 +23,9 @@
 
 
 
-<!-- <b> Contribution</b>
+<b> Contribution</b>
 
-[![Ivan GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=IvanGael&&theme=xcode)](https://github.com/IvanGael) -->
+[![Ivan github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IvanGael&theme=react-dark)]()
 
 
 <b> 📊 My Stats</b>
