@@ -1,13 +1,13 @@
-<img align="center" alt="Coding" width="800px" height="250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img align="center" alt="Coding" width="800px" height="250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 <h1 align="center">
   <img src="Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! Welcome on my profile
 <!--   <img src="Hi.gif" width="40px" /> -->
 </h1>
 
 
-<b> 💻 My Tech Stack</b>
+<b> 💻 Tech Stack</b>
 
 | **Category** | **Technologies** |
 | - | - |
@@ -29,7 +29,7 @@
 [![Ivan github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IvanGael&theme=react-dark)]()
 
 
-<b> 📊 My Stats</b>
+<b> 📊 Stats</b>
 
 ![](https://github-readme-stats.vercel.app/api?username=IvanGael&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IvanGael&theme=buefy&hide_border=false)<br/>
