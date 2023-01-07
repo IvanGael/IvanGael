@@ -1,10 +1,10 @@
 <!-- <img align="center" alt="Coding" width="800px" height="250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
-<h1 align="center">
+<h2 align="center">
   <img src="Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! Welcome on my profile
+  𝐇𝐞𝐥𝐥𝐨, Welcome on my profile !
 <!--   <img src="Hi.gif" width="40px" /> -->
-</h1>
+</h2>
 
 
 <b> 💻 Tech Stack</b>
