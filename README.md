@@ -4,7 +4,6 @@
   <img src="Earth.gif" width="24px">
   Welcome on my profile !
 <!--   <img src="Hi.gif" width="40px" /> -->
-  <code>It's Ivan APEDO</code>
 </h2>
 
 
