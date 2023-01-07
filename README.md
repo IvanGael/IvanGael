@@ -5,6 +5,7 @@
   Welcome on my profile !
 <!--   <img src="Hi.gif" width="40px" /> -->
 </h2>
+<code>It's Ivan APEDO</code>
 
 
 <b> 💻 Tech Stack</b>
@@ -18,7 +19,7 @@
 **DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/)
 
 
-
+ <img src="Hi.gif" width="40px" />
       
 ----      
 
