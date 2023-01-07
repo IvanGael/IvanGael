@@ -2,7 +2,7 @@
 
 <h2 align="center">
   <img src="Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, Welcome on my profile !
+  Welcome on my profile !
 <!--   <img src="Hi.gif" width="40px" /> -->
 </h2>
 
