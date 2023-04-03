@@ -28,11 +28,9 @@
 
 <b> Contribution</b>
 
-[![Ivan github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IvanGael&theme=react-dark)]()
+[![IvanGael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IvanGael&theme=react-dark)]()
 
 
 <b> 📊 Stats</b>
 
-![](https://github-readme-stats.vercel.app/api?username=IvanGael&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IvanGael&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true)
