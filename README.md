@@ -9,7 +9,7 @@
 
 
 
-<b> 💻 Tech Stack</b>
+<b> 💻 My Tech Stack</b>
 
 | **Category** | **Technologies** |
 | - | - |
@@ -31,7 +31,7 @@
 <!--[![IvanGael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IvanGael&theme=react-dark)]()-->
 
 
-<b> 📊 Stats</b>
+<b> 📊 My Stats</b>
 
 ![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true)
 
