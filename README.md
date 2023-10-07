@@ -2,7 +2,7 @@
 
 <h2 align="center">
   <img src="Earth.gif" width="24px">
-  Welcome on my profile !
+  Welcome on my profile ! it's Ivan ! Computer science student!!!!
 <!--   <img src="Hi.gif" width="40px" /> -->
 </h2>
 <!-- <img align="center" alt="Coding" width="800px" height="250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
@@ -26,9 +26,9 @@
 
 
 
-<b> Contribution</b>
+<!--<b> Contribution</b>-->
 
-[![IvanGael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IvanGael&theme=react-dark)]()
+<!--[![IvanGael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IvanGael&theme=react-dark)]()-->
 
 
 <b> 📊 Stats</b>
