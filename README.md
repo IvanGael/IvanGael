@@ -5,7 +5,7 @@
   Welcome on my profile !
 <!--   <img src="Hi.gif" width="40px" /> -->
 </h2>
-<img align="center" alt="Coding" width="800px" height="250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img align="center" alt="Coding" width="800px" height="250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 
 
