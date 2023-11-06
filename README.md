@@ -40,6 +40,10 @@
 - [Kotlin particle animation](https://drive.google.com/file/d/1uGD33rxk6NAvQMVyaG8GetPyWjg_XTQy/view?usp=sharing)
 - [Kotlin sentiment analysis app](https://drive.google.com/file/d/1yiiBx43bWBLpEtr_8KvUr3Agkk5IlejZ/view?usp=sharing)
 - [Kotlin splash screen animation](https://drive.google.com/file/d/1MSotPnnH3Va3IGDqKTPBWXWZ2AE7I2hW/view?usp=sharing)
+- [Let's go biking](https://github.com/IvanGael/si4-lets-go-biking)
+- [Java GAB simulator](https://github.com/IvanGael/Simulate-GAB)
+- [Angular/spring expostions manager](https://github.com/IvanGael/angularSpring-GesExpo)
+- [Resfood](https://github.com/IvanGael/Resfood)
   
 
 
