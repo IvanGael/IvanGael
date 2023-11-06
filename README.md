@@ -1,9 +1,9 @@
-<h2 align="center">
-<!--   <img src="Earth.gif" width="24px">
+<!--<h2 align="center">
+  <img src="Earth.gif" width="24px">
   [![Présentation](treelink.png)](https://dai.ly/k1ittxJfoE6piTyXeyL)
-  Welcome to my profile! I'm Ivan, a computer science student passionate about building apps. -->
+  Welcome to my profile! I'm Ivan, a computer science student passionate about building apps.
   
-</h2>
+</h2>-->
 
 <img src="presentation.gif" width="724px">
 
