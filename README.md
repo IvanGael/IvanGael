@@ -21,6 +21,15 @@
 ----      
 
 
+<b> 🎥 Projects</b>
+
+- [Kotlin chat app](https://dai.ly/k6q9VhDTF54A9izCKhQ)
+- [Kotlin hangman game](https://dai.ly/k6DWlnwRZdBPAozCKhS)
+
+
+
+
+
 
 <b> 📊 My Stats</b>
 
