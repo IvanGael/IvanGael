@@ -47,11 +47,6 @@
   
 
 
-<!--<b> Contribution</b>-->
-
-[![IvanGael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IvanGael&theme=react-dark)]()
-
-
 
 <b> 📊 My Stats</b>
 
