@@ -1,12 +1,7 @@
-<!-- <img align="center" alt="Coding" width="800px" height="250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
-
 <h2 align="center">
   <img src="Earth.gif" width="24px">
-  Welcome on my profile ! it's Ivan ! Computer science student!!!!
-<!--   <img src="Hi.gif" width="40px" /> -->
+  Welcome to my profile! I'm Ivan, a computer science student passionate about building apps.
 </h2>
-<!-- <img align="center" alt="Coding" width="800px" height="250px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
-
 
 
 <b> 💻 My Tech Stack</b>
@@ -18,21 +13,13 @@
 **Mobile** | [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=61DAFB&logo=flutter&logoColor=FFFFFF)](https://flutter.dev/)
 **Cloud** | [![Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=00C7B7&logo=netlify&logoColor=FFFFFF)](https://netlify.com/) [![Google Cloud](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&logo=googlecloud&logoColor=FFFFFF)](https://cloud.google.com/) 
 **Baas** | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-<!--**DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) -->
 
-
-      
 ----      
 
 
 
-<!--<b> Contribution</b>-->
-
-<!--[![IvanGael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IvanGael&theme=react-dark)]()-->
-
-
 <b> 📊 My Stats</b>
 
-![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true)
+![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&title_color=2ecc71&icon_color=2ecc71)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&layout=compact)](https://github.com/IvanGael/github-readme-stats)
