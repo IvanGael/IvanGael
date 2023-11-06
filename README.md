@@ -4,7 +4,7 @@
   
 </h2>
 
-<img src="presentation.gif" width="124px">
+<img src="presentation.gif" width="624px">
 
 
 [![Présentation](treelink.png)](https://dai.ly/k1ittxJfoE6piTyXeyL)
