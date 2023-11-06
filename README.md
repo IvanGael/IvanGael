@@ -26,9 +26,15 @@
 
 <b> 🎥 Projects</b>
 
+
 - [Kotlin chat app](https://drive.google.com/file/d/1DdVZd88nOyYQDxBp-99tDO8mG1BQyKok/view?usp=sharing)
 - [Kotlin hangman game](https://drive.google.com/file/d/1k26dh8VNiYoO94N1lYAh2FCODYQhw7yI/view?usp=sharing)
 - [Kotlin news app](https://drive.google.com/file/d/19PKh6v9Ols6SSvrFovc5YRU8KAhrKHwG/view?usp=sharing)
+- [Kotlin weather app](https://drive.google.com/file/d/12MJpzOi4MsywvKIv8P_1gMnhAPpkkfHS/view?usp=sharing)
+- [Kotlin currency converter app](https://drive.google.com/file/d/1yM99chevrLA10YPjAzUoG8w6l9YkpINl/view?usp=sharing)
+- [Kotlin currency converter app](https://drive.google.com/file/d/1yM99chevrLA10YPjAzUoG8w6l9YkpINl/view?usp=sharing)
+- [Animated character](https://drive.google.com/file/d/1l2xLjSIoigFyg8lsq9EBYTtEfAofZ-qK/view?usp=sharing)
+  
 
 
 
