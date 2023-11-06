@@ -26,9 +26,9 @@
 
 <b> 🎥 Projects</b>
 
-- [Kotlin chat app](https://dai.ly/k6q9VhDTF54A9izCKhQ)
-- [Kotlin hangman game](https://dai.ly/k6DWlnwRZdBPAozCKhS)
-- [Kotlin news app](https://dai.ly/k39wE9DcSzfUrtzCKAL)
+- [Kotlin chat app](https://drive.google.com/file/d/1DdVZd88nOyYQDxBp-99tDO8mG1BQyKok/view?usp=sharing)
+- [Kotlin hangman game](https://drive.google.com/file/d/1k26dh8VNiYoO94N1lYAh2FCODYQhw7yI/view?usp=sharing)
+- [Kotlin news app](https://drive.google.com/file/d/19PKh6v9Ols6SSvrFovc5YRU8KAhrKHwG/view?usp=sharing)
 
 
 
