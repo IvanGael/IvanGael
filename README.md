@@ -36,6 +36,10 @@
 - [Animated character](https://drive.google.com/file/d/1l2xLjSIoigFyg8lsq9EBYTtEfAofZ-qK/view?usp=sharing)
 - [ChatZen](https://drive.google.com/file/d/1_l3SVM2eXATP8G9XMYYSPUd4O-0qySor/view?usp=sharing)
 - [Java ascenseur simulate](https://drive.google.com/file/d/1o4VK2GBuUOeTWdeuymvLD8s1a4uS6Pe6/view?usp=sharing)
+- [Kotlin calculator app](https://drive.google.com/file/d/114RYvT4Y3vQiu2mtL9jl0_USXuvIbZXl/view?usp=sharing)
+- [Kotlin particle animation](https://drive.google.com/file/d/1uGD33rxk6NAvQMVyaG8GetPyWjg_XTQy/view?usp=sharing)
+- [Kotlin sentiment analysis app](https://drive.google.com/file/d/1yiiBx43bWBLpEtr_8KvUr3Agkk5IlejZ/view?usp=sharing)
+- [Kotlin splash screen animation](https://drive.google.com/file/d/1MSotPnnH3Va3IGDqKTPBWXWZ2AE7I2hW/view?usp=sharing)
   
 
 
