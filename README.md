@@ -5,7 +5,7 @@
   
 </h2>-->
 
-<img src="presentation.gif" width="724px">
+<img src="header.png" width="724px">
 
 
 
