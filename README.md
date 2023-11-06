@@ -34,6 +34,8 @@
 - [Kotlin currency converter app](https://drive.google.com/file/d/1yM99chevrLA10YPjAzUoG8w6l9YkpINl/view?usp=sharing)
 - [Kotlin currency converter app](https://drive.google.com/file/d/1yM99chevrLA10YPjAzUoG8w6l9YkpINl/view?usp=sharing)
 - [Animated character](https://drive.google.com/file/d/1l2xLjSIoigFyg8lsq9EBYTtEfAofZ-qK/view?usp=sharing)
+- [ChatZen](https://drive.google.com/file/d/1_l3SVM2eXATP8G9XMYYSPUd4O-0qySor/view?usp=sharing)
+- [Java ascenseur simulate](https://drive.google.com/file/d/1o4VK2GBuUOeTWdeuymvLD8s1a4uS6Pe6/view?usp=sharing)
   
 
 
