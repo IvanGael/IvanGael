@@ -1,8 +1,10 @@
 <h2 align="center">
 <!--   <img src="Earth.gif" width="24px">
   Welcome to my profile! I'm Ivan, a computer science student passionate about building apps. -->
-  (https://dai.ly/k1ittxJfoE6piTyXeyL)
+  
 </h2>
+
+[video-linktree](https://dai.ly/k1ittxJfoE6piTyXeyL)
 
 
 <b> 💻 My Tech Stack</b>
