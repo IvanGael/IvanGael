@@ -5,7 +5,7 @@
   
 </h2>-->
 
-<img src="header.png" width="724px" height="300px">
+<img src="header.png" width="724px" height="400px">
 
 
 
@@ -52,4 +52,6 @@
 
 ![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&title_color=2ecc71&icon_color=2ecc71)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&layout=compact)](https://github.com/IvanGael/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&layout=compact)](https://github.com/IvanGael/github-readme-stats)-->
