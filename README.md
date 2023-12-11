@@ -50,6 +50,6 @@
 
 <b> 📊 My Stats</b>
 
-![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=false&title_color=2ecc71&icon_color=2ecc71)
+![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&title_color=2ecc71&icon_color=2ecc71)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&layout=compact)](https://github.com/IvanGael/github-readme-stats)
