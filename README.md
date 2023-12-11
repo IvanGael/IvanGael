@@ -15,8 +15,8 @@
 
 | **Category** | **Technologies** |
 | - | - |
-**Frontend** | [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD0031&logo=angular&logoColor=FFFFFF)](https://angularjs.org/)
-**Backend** | [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) <br>[![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+**Frontend** | [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![NextJS](https://img.shields.io/static/v1?label=&message=Nextjs&color=DD0031&logo=nextjs&logoColor=FFFFFF)](https://angularjs.org/)
+**Backend** | [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) <br>[![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Go](https://img.shields.io/badge/go-%236DB33F.svg?style=for-the-badge&logo=go&logoColor=white) 
 **Mobile** | [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=61DAFB&logo=flutter&logoColor=FFFFFF)](https://flutter.dev/) [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=61DHFB&logo=kotlin&logoColor=FFFFFF)](https://flutter.dev/)
 **Cloud** | [![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=4285F4&logo=microsoftazure&logoColor=FFFFFF)](https://portal.azure.com/) [![Google Cloud](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&logo=googlecloud&logoColor=FFFFFF)](https://cloud.google.com/) 
 **Baas** | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
@@ -24,7 +24,7 @@
 ----      
 
 
-<b> 🎥 Projects</b>
+<!--<b> 🎥 Projects</b>
 
 
 - [Kotlin chat app](https://drive.google.com/file/d/1DdVZd88nOyYQDxBp-99tDO8mG1BQyKok/view?usp=sharing)
@@ -44,7 +44,7 @@
 - [Java GAB simulator](https://github.com/IvanGael/Simulate-GAB)
 - [Angular/spring expostions manager](https://github.com/IvanGael/angularSpring-GesExpo)
 - [Resfood](https://github.com/IvanGael/Resfood)
-  
+ --> 
 
 
 
