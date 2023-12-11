@@ -5,7 +5,7 @@
   
 </h2>-->
 
-<img src="header.png" width="724px">
+<img src="header.png" width="724px" height="300px">
 
 
 
