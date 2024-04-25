@@ -5,7 +5,7 @@ I have a lot of interest in the following topics:
 - Web,Mobile
 - API/Microservices
 - Machine Learning and AI 
-- Cloud
+
 
 ## Stacks
 
