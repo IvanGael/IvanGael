@@ -13,9 +13,9 @@ I have a lot of interest in the following topics:
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Nextjs&color=000000&logo=nextjs&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Go&color=007d9c&logo=go&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Flask&color=61DEFB&logo=flask&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Flutter&color=01DAFB&logo=flutter&logoColor=FFFFFF" width="100"> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="100"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="100"> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="100"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="100"> |
 
-
+<!--
 ## 📊 Stats
 ![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&hide_title=false&theme=tokyonight
-)
+) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
