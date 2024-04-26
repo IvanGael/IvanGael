@@ -183,6 +183,105 @@ I have a lot of interest in the following topics:
 				</a>
 			</td>
 		</tr>
+	<tr>
+			<th>Signin-Signup UI</th>	
+			<th>Blur effect</th>	
+			<th>Pinball</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/signin_signup1.gif" alt="Signin-Signup UI"></img>
+			</td>
+			<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/blur_effect.gif" alt="Blur effect"></img>
+			</td>
+			<td>
+			<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/pinball_game.gif" alt="Pinball"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+		</tr>
+	<tr>
+			<th>Wallpaper generator</th>	
+			<th>Whack mole game</th>	
+			<th>Text masking animation</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/wallpaper_generator.gif" alt="Wallpaper generator"></img>
+			</td>
+			<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/whack_mole_game.gif" alt="Whack mole game"></img>
+			</td>
+			<td>
+			<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/text_masking_anim.gif" alt="Text masking animation"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+		</tr>
+	<tr>
+			<th>Sharigan to mangekyou animation</th>	
+			<th>Text typewriter animation</th>	
+			<th>Sharigan eye animation</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/sharigan_to_mangekyou.gif" alt="Sharigan to mangekyou animation"></img>
+			</td>
+			<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/text_typewriter_anim.gif" alt="Text typewriter animation"></img>
+			</td>
+			<td>
+			<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/sharing_eye_anim.gif" alt="Sharigan eye animation"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
