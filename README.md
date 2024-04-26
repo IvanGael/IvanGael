@@ -267,7 +267,7 @@ I have a lot of interest in the following topics:
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
+				<a href="https://github.com/IvanGael/flutter-funs/blob/main/lib/sharingan_to_mangekyou_screen.dart">
 					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
 				</a>
 			</td>
