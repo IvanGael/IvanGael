@@ -272,12 +272,12 @@ I have a lot of interest in the following topics:
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
+				<a href="https://github.com/IvanGael/flutter-funs/blob/main/lib/typewriter_text_animation.dart">
 					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
+				<a href="https://github.com/IvanGael/flutter-funs/blob/main/lib/eye_modeling.dart">
 					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
 				</a>
 			</td>
