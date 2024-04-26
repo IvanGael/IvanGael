@@ -151,13 +151,13 @@ I have a lot of interest in the following topics:
 			</td>
 		</tr>
 	<tr>
-			<th>Himalayas job app</th>	
+			<th>Himalayas job app UI</th>	
 			<th>Maze game</th>	
 			<th>Memory match game</th>
 		</tr>
 		<tr>
 			<td>
-				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/himalayas_job_app.gif" alt="Himalayas job app"></img>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/himalayas_job_app.gif" alt="Himalayas job app UI"></img>
 			</td>
 			<td>
 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/maze_game.gif" alt="Maze game"></img>
