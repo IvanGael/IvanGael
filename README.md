@@ -13,6 +13,50 @@ I have a lot of interest in the following topics:
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Nextjs&color=000000&logo=nextjs&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Go&color=007d9c&logo=go&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Flask&color=61DEFB&logo=flask&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Flutter&color=01DAFB&logo=flutter&logoColor=FFFFFF" width="100"> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="100"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="100"> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="100"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="100"> |
 
+
+## Fun 🙂
+
+<table>
+	<tbody width="100%">
+		<tr>
+			<th>Gradient based Onboarding UI</th>	
+			<th>Bottomsheet based Onboarding UI</th>	
+			<th>Cinema based Onboarding UI</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/gradient_based_onboarding.gif" alt="Gradient based Onboarding UI"></img>
+			</td>
+			<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/bottomsheet_based_onboarding.gif" alt="Bottomsheet based Onboarding UI"></img>
+			</td>
+			<td>
+			<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/cinema_based_onboarding.gif" alt="Cinema based Onboarding UI"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+		</tr>
+  
+	</tbody>
+</table>
+
+---
+
 <!--
 ## 📊 Stats
 ![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&hide_title=false&theme=tokyonight
