@@ -117,6 +117,39 @@ I have a lot of interest in the following topics:
 				</a>
 			</td>
 		</tr>
+	<tr>
+			<th>Elevator simulation</th>	
+			<th>Function curve tracer</th>	
+			<th>Snake game</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/elevator_sim.gif" alt="Elevator simulation"></img>
+			</td>
+			<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/function_rep_curve.gif" alt="Function curve tracer"></img>
+			</td>
+			<td>
+			<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/snake_game.gif" alt="Snake game"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
