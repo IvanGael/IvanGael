@@ -84,6 +84,39 @@ I have a lot of interest in the following topics:
 				</a>
 			</td>
 		</tr>
+	<tr>
+			<th>CountDown card timer</th>	
+			<th>Dino game</th>	
+			<th>Dragon ball fight animation</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/countdown_card_timer.gif" alt="CountDown card timer"></img>
+			</td>
+			<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/dino_game.gif" alt="Dino game"></img>
+			</td>
+			<td>
+			<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/dragonball_fight_anim.gif" alt="Dragon ball fight animation"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
