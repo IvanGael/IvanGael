@@ -282,6 +282,21 @@ I have a lot of interest in the following topics:
 				</a>
 			</td>
 		</tr>
+	<tr>
+			<th>Automate drawing app</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/atdr.gif" alt="Automate drawing app"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
