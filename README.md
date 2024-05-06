@@ -284,13 +284,31 @@ I have a lot of interest in the following topics:
 		</tr>
 	<tr>
 			<th>Automate drawing app</th>
+		<th>Glass filling up</th>
+		<th>Stopwatch</th>
 		</tr>
 		<tr>
 			<td>
 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/atdr.gif" alt="Automate drawing app"></img>
 			</td>
+	<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/lemon-chck.gif" alt="Glass filling up"></img>
+			</td>
+	<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/stpch.gif" alt="Stopwatch"></img>
+			</td>
 		</tr>
 		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
 					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
