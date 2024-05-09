@@ -315,6 +315,30 @@ I have a lot of interest in the following topics:
 				</a>
 			</td>
 		</tr>
+	<tr>
+			<th>Gallery images</th>
+		<th>Scanning animation</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/g_im.gif" alt="Gallery images"></img>
+			</td>
+	<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/scning.gif" alt="Scanning animation"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
