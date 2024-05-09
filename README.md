@@ -318,6 +318,7 @@ I have a lot of interest in the following topics:
 	<tr>
 			<th>Gallery images</th>
 		<th>Scanning animation</th>
+		<th>Food store UI</th>
 		</tr>
 		<tr>
 			<td>
@@ -326,8 +327,16 @@ I have a lot of interest in the following topics:
 	<td>
 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/scning.gif" alt="Scanning animation"></img>
 			</td>
+	<td>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/fdst.gif" alt="Food store UI"></img>
+			</td>
 		</tr>
 		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+				</a>
+			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
 					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
