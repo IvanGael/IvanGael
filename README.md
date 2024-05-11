@@ -1,8 +1,6 @@
 <h3 align="center">Hi! I'm Ivan! · Software Engineer ·</h3>
 
-```
-I'm focused on building visually appealing and user-friendly software
-```
+<div style="padding: 10; background-color: grey;">I'm focused on building visually appealing and user-friendly software</div>
 
 I have a lot of interest in the following topics:
 
