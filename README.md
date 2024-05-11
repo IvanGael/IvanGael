@@ -1,5 +1,5 @@
 <h3 align="center">Hi! I'm Ivan! · Software Engineer ·</h3>
-<h4>I'm focused on building visually appealing and user-friendly software</h4>
+<h4 align="center">I'm focused on building visually appealing and user-friendly software</h4>
 
 <h4>I have a lot of interest in the following topics :</h4>
 
