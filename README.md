@@ -1,13 +1,13 @@
 <h3 align="center">Hi! I'm Ivan! · Software Engineer ·</h3>
+```
+I'm focused on building visually appealing and user-friendly software
+```
 
 I have a lot of interest in the following topics:
 
 - Web,Mobile
 - API/Microservices
 - Machine Learning and AI 
-
-
-[![committers.top badge](https://user-badge.committers.top/togo/IvanGael.svg)](https://user-badge.committers.top/togo/IvanGael)
 
 
 ## Stacks
