@@ -7,7 +7,7 @@ I have a lot of interest in the following topics:
 - Machine Learning and AI 
 
 
-[![committers.top badge](https://user-badge.committers.top/france/IvanGael.svg)](https://user-badge.committers.top/france/IvanGael)
+[![committers.top badge](https://user-badge.committers.top/togo/IvanGael.svg)](https://user-badge.committers.top/togo/IvanGael)
 
 
 ## Stacks
