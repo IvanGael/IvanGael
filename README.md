@@ -7,6 +7,9 @@ I have a lot of interest in the following topics:
 - Machine Learning and AI 
 
 
+[![committers.top badge](https://user-badge.committers.top/france/IvanGael.svg)](https://user-badge.committers.top/france/IvanGael)
+
+
 ## Stacks
 
 | [React](https://reactjs.org/) | [NextJS](https://nextjs.org/) | [NodeJs](https://nodejs.org/) | [Spring](https://spring.io/) | [Go](https://go.dev/) | [Flask](https://flask.palletsprojects.com/en/3.0.x/) | [Flutter](https://flutter.dev/) | [OpenCV](https://opencv.org/) | [Docker](https://www.docker.com/) | [GCP](https://cloud.google.com) | [Firebase](https://firebase.google.com/) |
