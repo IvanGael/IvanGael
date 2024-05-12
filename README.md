@@ -1,7 +1,6 @@
 <h3>Hi!</h3>
-<h4>Software Engineer, I'm Focused on building visually appealing and user-friendly software.</h4>
 
-<h4>I have a lot of interest in the following topics :</h4>
+<h4>I'm Software Engineer and I have a lot of interest in the following topics :</h4>
 
 - Web,Mobile
 - API/Microservices
