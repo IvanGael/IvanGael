@@ -349,13 +349,13 @@
 			</td>
 		</tr>
 	<tr>
-			<th>Travel planner app UI</th>
+			<th>Store with animated cart</th>
 		<th>A particle animation of numbers</th>
 		<th>A flip book animation transitioning between images.</th>
 		</tr>
 		<tr>
 			<td>
-				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/travel-planner.gif" alt="Travel planner app UI"></img>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/animated_shopping.gif" alt="Store with animated cart"></img>
 			</td>
 	<td>
 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/numbers_particle.gif" alt="A particle animation of numbers"></img>
@@ -366,8 +366,8 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/Travel-planner-mobile-app">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=Travel-planner-mobile-app&theme=tokyonight" alt="Travel planner mobile app" />
+				<a href="https://github.com/IvanGael/funs-animation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Store with animated cart" />
 				</a>
 			</td>
 			<td>
