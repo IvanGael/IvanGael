@@ -349,13 +349,13 @@
 			</td>
 		</tr>
 	<tr>
-			<th>Store with animated cart</th>
+			<th>Virtual aquarium</th>
 		<th>A particle animation of numbers</th>
 		<th>A flip book animation transitioning between images.</th>
 		</tr>
 		<tr>
 			<td>
-				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/animated_shopping.gif" alt="Store with animated cart"></img>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/virt_aqua.gif" alt="Virtual aquarium"></img>
 			</td>
 	<td>
 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/numbers_particle.gif" alt="A particle animation of numbers"></img>
@@ -367,7 +367,7 @@
 		<tr>
 			<td>
 				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Store with animated cart" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Virtual aquarium" />
 				</a>
 			</td>
 			<td>
