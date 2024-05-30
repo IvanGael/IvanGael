@@ -391,4 +391,7 @@
 ![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&hide_title=false&theme=tokyonight
 ) -->
 
+📊 Stats
+![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&hide_title=false&theme=tokyonight
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
