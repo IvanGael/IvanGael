@@ -355,7 +355,8 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/virtual_aqua.gif" alt="Virtual aquarium"></img>
+				![virutal aqua](https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/virtual_aqua.mp4)
+<!-- 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/virtual_aqua.gif" alt="Virtual aquarium"></img> -->
 			</td>
 	<td>
 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/numbers_particle.gif" alt="A particle animation of numbers"></img>
