@@ -349,14 +349,13 @@
 			</td>
 		</tr>
 	<tr>
-			<th>Virtual aquarium</th>
+			<th>Countdown timer with dynamic color changes</th>
 		<th>A particle animation of numbers</th>
 		<th>A flip book animation transitioning between images.</th>
 		</tr>
 		<tr>
 			<td>
-				![VirtualAqua](https://github.com/IvanGael/IvanGael/assets/75835662/edd34bb9-03f6-45c8-b168-33cf68e4765c)
-<!-- 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/virtual_aqua.gif" alt="Virtual aquarium"></img> -->
+			<img src="https://github.com/IvanGael/IvanGael/assets/75835662/ddc02193-2221-4fb7-8330-17367e8c8c49" alt="Countdown timer with dynamic color changes"></img>
 			</td>
 	<td>
 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/numbers_particle.gif" alt="A particle animation of numbers"></img>
@@ -368,7 +367,7 @@
 		<tr>
 			<td>
 				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Virtual aquarium" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
 				</a>
 			</td>
 			<td>
