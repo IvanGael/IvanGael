@@ -350,7 +350,7 @@
 		</tr>
 	<tr>
 			<th>Countdown timer with dynamic color changes</th>
-		<th>A particle animation of numbers</th>
+		<th>Gallery carousel</th>
 		<th>A flip book animation transitioning between images.</th>
 		</tr>
 		<tr>
@@ -358,7 +358,7 @@
 			<img src="https://github.com/IvanGael/IvanGael/assets/75835662/ddc02193-2221-4fb7-8330-17367e8c8c49" alt="Countdown timer with dynamic color changes"></img>
 			</td>
 	<td>
-				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/numbers_particle.gif" alt="A particle animation of numbers"></img>
+				<img src="https://github.com/IvanGael/IvanGael/assets/75835662/b8133469-78f6-481b-8694-658e92714ba4" alt="Gallery carousel"></img>
 			</td>
 	<td>
 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/flip_book.gif" alt="A flip book animation transitioning between images."></img>
