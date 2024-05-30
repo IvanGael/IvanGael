@@ -355,7 +355,7 @@
 		</tr>
 		<tr>
 			<td>
-				![virutal aqua](https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/virtual_aqua.mp4)
+				<video src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/virtual_aqua.mp4"></video>
 <!-- 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/virtual_aqua.gif" alt="Virtual aquarium"></img> -->
 			</td>
 	<td>
