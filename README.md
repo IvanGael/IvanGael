@@ -381,6 +381,39 @@
 				</a>
 			</td>
 		</tr>
+	<tr>
+			<th>Interactive plate menu</th>
+		<th>Zoom on image</th>
+		<th>Pan across a panoramic image</th>
+		</tr>
+		<tr>
+			<td>
+			<img src="https://github.com/IvanGael/IvanGael/assets/75835662/efb57e14-0da8-4ee5-af93-5466d7312b5c" alt="Interactive plate menu"></img>
+			</td>
+	<td>
+				<img src="https://github.com/IvanGael/IvanGael/assets/75835662/f004c95f-9f39-4cde-8ac0-b7daa8b1033b" alt="Zoom on image"></img>
+			</td>
+	<td>
+				<img src="https://github.com/IvanGael/IvanGael/assets/75835662/198c0477-0db5-469b-8a0f-21255a1f593a" alt="Pan across a panoramic image"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/funs-animation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/funs-animation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/funs-animation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
+				</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
