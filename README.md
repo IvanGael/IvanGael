@@ -414,6 +414,39 @@
 				</a>
 			</td>
 		</tr>
+	<tr>
+			<th>Parallax autoScrolling</th>
+		<th>World countries</th>
+		<th>Music playing animated gradient background</th>
+		</tr>
+		<tr>
+			<td>
+			<img src="https://github.com/IvanGael/IvanGael/assets/75835662/3226240c-0361-4cac-87e1-529289d58ebf" alt="Parallax autoScrolling"></img>
+			</td>
+	<td>
+				<img src="https://github.com/IvanGael/IvanGael/assets/75835662/40f665a6-f0e1-4039-9aef-2a57aa9a54ff" alt="World countries"></img>
+			</td>
+	<td>
+				<img src="https://github.com/IvanGael/IvanGael/assets/75835662/e40c1a6e-3cc3-4d4a-bd47-cbc7027f2abb" alt="Music playing animated gradient background"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/funs-animation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/funs-animation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/funs-animation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
+				</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
