@@ -15,8 +15,13 @@
 
 
 ## Projects and Organizations I contribute to
-- <img src="https://github.com/IvanGael/IvanGael/assets/75835662/9be73cde-6b3e-4387-8d16-f961424aca8c" width="20px" height="20px" > - GoFr https://github.com/gofr-dev
-- <img src="https://github.com/IvanGael/IvanGael/assets/75835662/ac3e0db1-095b-4a6a-857f-da7565263b14" width="20px" height="20px"> - Widgetbook https://github.com/widgetbook
+> [!GoFr]
+> <img src="https://github.com/IvanGael/IvanGael/assets/75835662/9be73cde-6b3e-4387-8d16-f961424aca8c" width="30px" height="30px" >
+> https://github.com/gofr-dev
+
+> [!Widgetbook]
+> <img src="https://github.com/IvanGael/IvanGael/assets/75835662/ac3e0db1-095b-4a6a-857f-da7565263b14" width="30px" height="30px">
+> https://github.com/widgetbook
 
 
 
