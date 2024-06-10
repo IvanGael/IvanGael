@@ -16,10 +16,10 @@
 
 ## Projects and Organizations I contribute to
 
-### GoFr : https://github.com/gofr-dev
+#### GoFr - https://github.com/gofr-dev
 * <img src="https://github.com/IvanGael/IvanGael/assets/75835662/9be73cde-6b3e-4387-8d16-f961424aca8c" >
 
-### Widgetbook : https://github.com/widgetbook
+#### Widgetbook - https://github.com/widgetbook
 * <img src="https://github.com/IvanGael/IvanGael/assets/75835662/ac3e0db1-095b-4a6a-857f-da7565263b14" >
 
 
