@@ -14,11 +14,13 @@
 | <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF" width="100"> | <img src="https://assets-global.website-files.com/646dd1f1a3703e451ba81ecc/6499468f33db295c5a1219ec_Ultralytics_mark_blue.svg" width="50" height="50"> | <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Go&color=007d9c&logo=go&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Flask&color=61DEFB&logo=flask&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Flutter&color=01DAFB&logo=flutter&logoColor=FFFFFF" width="100"> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="100"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="100"> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="100"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="100"> |
 
 
+<!--
 ## Projects and Organizations I contribute to
 
 | [GoFr](https://github.com/gofr-dev) | [Widgetbook](https://github.com/widgetbook) |
 | :---: | :---: |
 <img src="https://github.com/IvanGael/IvanGael/assets/75835662/9be73cde-6b3e-4387-8d16-f961424aca8c" width="50px" height="50px"> | <img src="https://github.com/IvanGael/IvanGael/assets/75835662/ac3e0db1-095b-4a6a-857f-da7565263b14" width="50px" height="50px">
+-->
 
 
 
