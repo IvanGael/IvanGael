@@ -3,7 +3,6 @@
 <h4>I'm Software Engineer and I have a lot of interest in the following topics :</h4>
 
 - Web/Mobile
-- Microservices
 - Machine Learning and AI 
 
 
