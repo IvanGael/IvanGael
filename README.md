@@ -23,7 +23,7 @@
 
 
 
-## Fun 🙂
+## Flutter animations & UI
 
 <table>
 	<tbody width="100%">
