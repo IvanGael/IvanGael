@@ -5,12 +5,25 @@
 - Web/Mobile
 - Machine Learning and Computer Vision
 
+## Technical Skills
+- Flutter/Dart
+- React
+- Python
+- Opencv
+- Mediapipe
+- Ultralytics/Yolovx
+- Flask
+- Firebase
+- Go
+- Nodejs
 
+<!--
 ## Stacks
 
 | [React](https://reactjs.org/) | [Ultralytics/Yolov](https://www.ultralytics.com/fr) | [NodeJs](https://nodejs.org/) | [Go](https://go.dev/) | [Flask](https://flask.palletsprojects.com/en/3.0.x/) | [Flutter](https://flutter.dev/) | [OpenCV](https://opencv.org/) | [Docker](https://www.docker.com/) | [GCP](https://cloud.google.com) | [Firebase](https://firebase.google.com/) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF" width="100"> | <img src="https://assets-global.website-files.com/646dd1f1a3703e451ba81ecc/6499468f33db295c5a1219ec_Ultralytics_mark_blue.svg" width="30" height="30"> | <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Go&color=007d9c&logo=go&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Flask&color=61DEFB&logo=flask&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Flutter&color=01DAFB&logo=flutter&logoColor=FFFFFF" width="100"> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="100"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="100"> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="100"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="100"> |
+-->
 
 
 <!--
