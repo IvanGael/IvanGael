@@ -50,6 +50,49 @@
 -->
 
 <details>
+  <summary>Computer Vision & CNN</summary>
+
+  <table>
+	<tbody width="100%">
+		<tr>
+			<th>Advanced Lanes Detection</th>	
+			<th>Vehicles Speed Estimation</th>	
+			<th>Road Traffic Monitoring</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://github.com/IvanGael/Advanced-Lanes-Detection/blob/main/demo.png?raw=true" alt="Advanced Lanes Detection"></img>
+			</td>
+			<td>
+				<img src="https://github.com/IvanGael/SpeedEstimation_opencv/raw/main/demo.png" alt="Vehicles Speed Estimation"></img>
+			</td>
+			<td>
+			<img src="https://github.com/IvanGael/Road_Traffic_Monitoring/raw/main/demo.png" alt="Road Traffic Monitoring"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/Advanced-Lanes-Detection">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=Advanced-Lanes-Detection&theme=blueberry" alt="Advanced-Lanes-Detection" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/SpeedEstimation_opencv">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=SpeedEstimation_opencv&theme=blueberry" alt="Vehicles Speed Estimation" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/Road_Traffic_Monitoring">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=Road_Traffic_Monitoring&theme=blueberry" alt="Road Traffic Monitoring" />
+				</a>
+			</td>
+		</tr>
+	</tbody>
+  </table>
+	
+</details>
+
+<details>
   <summary>Flutter animations & UI</summary>
 
   <table>
@@ -73,17 +116,17 @@
 		<tr>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -106,17 +149,17 @@
 		<tr>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -139,17 +182,17 @@
 		<tr>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -172,17 +215,17 @@
 		<tr>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -205,17 +248,17 @@
 		<tr>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -238,17 +281,17 @@
 		<tr>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -271,17 +314,17 @@
 		<tr>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -304,17 +347,17 @@
 		<tr>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs/blob/main/lib/sharingan_to_mangekyou_screen.dart">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs/blob/main/lib/typewriter_text_animation.dart">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs/blob/main/lib/eye_modeling.dart">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -337,17 +380,17 @@
 		<tr>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -370,17 +413,17 @@
 		<tr>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=tokyonight" alt="Flutter funs" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -403,17 +446,17 @@
 		<tr>
 			<td>
 				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 		</tr>
@@ -436,17 +479,17 @@
 		<tr>
 			<td>
 				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 		</tr>
@@ -469,17 +512,17 @@
 		<tr>
 			<td>
 				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=tokyonight" alt="Funs animation" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 		</tr>
