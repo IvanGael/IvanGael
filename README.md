@@ -32,6 +32,8 @@
   <img width="12" />
 </div>
 
+<br>
+
 <!--
 ## Stacks
 
@@ -87,10 +89,110 @@
 				</a>
 			</td>
 		</tr>
+	  <tr>
+			<th>Bottle Filling Automation</th>	
+			<th>Background Subtraction Object Detection</th>	
+			<th>Airplane Monitoring</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://github.com/IvanGael/Bottle_Filling_Line_Automation/raw/main/demo.png" alt="Bottle Filling Automation"></img>
+			</td>
+			<td>
+				<img src="https://github.com/IvanGael/Object_Detection_With_Background_substractor/raw/main/demo.png" alt="Background Subtraction Object Detection"></img>
+			</td>
+			<td>
+			<img src="https://github.com/IvanGael/Airplane_monitoring_with_runway_detection/raw/main/demo.png" alt="Airplane Monitoring"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/Bottle_Filling_Line_Automation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=Bottle_Filling_Line_Automation&theme=blueberry" alt="Bottle Filling Automation" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/Object_Detection_With_Background_substractor">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=Object_Detection_With_Background_substractor&theme=blueberry" alt="Background Subtraction Object Detection" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/Airplane_monitoring_with_runway_detection">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=Airplane_monitoring_with_runway_detection&theme=blueberry" alt="Airplane Monitoring" />
+				</a>
+			</td>
+		</tr>
+	  <tr>
+			<th>Faces Anonymization</th>	
+			<th>Human Motion Tracking</th>	
+			<th>Fists Detection Boxing</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://github.com/IvanGael/FacesDetection-With-pixelation-and-blurring/raw/main/pixelation_demo.png" alt="Faces Anonymization"></img>
+			</td>
+			<td>
+				<img src="https://github.com/IvanGael/human-motion-capture/raw/main/demo.png" alt="Human Motion Tracking"></img>
+			</td>
+			<td>
+			<img src="https://github.com/IvanGael/BoxingWithML/raw/main/demo.png" alt="Fists Detection Boxing"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/FacesDetection-With-pixelation-and-blurring">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=FacesDetection-With-pixelation-and-blurring&theme=blueberry" alt="Faces Anonymization" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/human-motion-capture">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=human-motion-capture&theme=blueberry" alt="Human Motion Tracking" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/BoxingWithML">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=BoxingWithML&theme=blueberry" alt="Fists Detection Boxing" />
+				</a>
+			</td>
+		</tr>
+	  <tr>
+			<th>Obj Detection with Gender Classification</th>	
+			<th>Obj Detection with Neural Networ Training Visualization</th>	
+			<th>Crowd Detection with Depth Estimation</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://github.com/IvanGael/Face-And-ObjectDetection-With-Glasses-Overlay-And-Gender-Classification/raw/main/demo.png" alt="Obj Detection with Gender Classification"></img>
+			</td>
+			<td>
+				<img src="https://github.com/IvanGael/Objects_detection_with_neural_network_training_visualization/raw/main/demo1.png" alt="Obj Detection with Neural Networ Training Visualization"></img>
+			</td>
+			<td>
+			<img src="https://github.com/IvanGael/Person-Detection-In-Video-with-landmark-depth-mask/raw/main/demo2.png" alt="Crowd Detection with Depth Estimation"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/IvanGael/Face-And-ObjectDetection-With-Glasses-Overlay-And-Gender-Classification">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=FacesDetection-With-pixelation-and-blurring&theme=blueberry" alt="Obj Detection with Gender Classification" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/Objects_detection_with_neural_network_training_visualization">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=human-motion-capture&theme=blueberry" alt="Obj Detection with Neural Networ Training Visualization" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/IvanGael/Person-Detection-In-Video-with-landmark-depth-mask">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=BoxingWithML&theme=blueberry" alt="Crowd Detection with Depth Estimation" />
+				</a>
+			</td>
+		</tr>
 	</tbody>
   </table>
 	
 </details>
+
 
 <details>
   <summary>Flutter animations & UI</summary>
