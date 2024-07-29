@@ -49,11 +49,10 @@
 <img src="https://github.com/IvanGael/IvanGael/assets/75835662/9be73cde-6b3e-4387-8d16-f961424aca8c" width="50px" height="50px"> | <img src="https://github.com/IvanGael/IvanGael/assets/75835662/ac3e0db1-095b-4a6a-857f-da7565263b14" width="50px" height="50px">
 -->
 
+<details>
+  <summary>Flutter animations & UI</summary>
 
-
-## Flutter animations & UI
-
-<table>
+  <table>
 	<tbody width="100%">
 		<tr>
 			<th>Gradient based Onboarding UI</th>	
@@ -486,6 +485,10 @@
 		</tr>
 	</tbody>
 </table>
+
+
+</details>
+
 
 ---
 
