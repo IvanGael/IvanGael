@@ -157,7 +157,7 @@
 		</tr>
 	  <tr>
 			<th>Obj Detection with Gender Classification</th>	
-			<th>Obj Detection with Neural Networ Training Visualization</th>	
+			<th>Obj Detection with Neural Network Training Visualization</th>	
 			<th>Crowd Detection with Depth Estimation</th>
 		</tr>
 		<tr>
