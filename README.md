@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="Opencv logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mediapipe" height="40" alt="Mediapipe logo"  />
+  <img src="https://skillicons.dev/icons?i=ultralytics" height="40" alt="Ultralytics logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo"  />
   <img width="12" />
