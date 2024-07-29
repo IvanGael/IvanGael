@@ -5,17 +5,34 @@
 - Web/Mobile
 - Machine Learning and Computer Vision
 
-## Technical Skills
-- Flutter/Dart
-- React
-- Python
-- Opencv
-- Mediapipe
-- Ultralytics/Yolovx
-- Flask
-- Firebase
-- Go
-- Nodejs
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="Tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="Opencv logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mediapipe" height="40" alt="Mediapipe logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo"  />
+  <img width="12" />
+</div>
 
 <!--
 ## Stacks
