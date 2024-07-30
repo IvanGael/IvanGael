@@ -5,6 +5,13 @@
 - Web/Mobile
 - Machine Learning and Computer Vision
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,go,nodejs,flask,tensorflow,python,opencv,postgres,firebase" />
+  </a>
+</p>
+
+<!--
 <div align="left">
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
@@ -29,6 +36,7 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo"  />
   <img width="12" />
 </div>
+-->
 
 <br>
 
