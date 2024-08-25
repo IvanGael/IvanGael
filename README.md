@@ -190,7 +190,7 @@
 			</td>
 			<td>
 				<a href="https://github.com/IvanGael/Person-Detection-In-Video-with-landmark-depth-mask">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=BoxingWithML&theme=blueberry" alt="Crowd Detection with Depth Estimation" />
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=Person-Detection-In-Video-with-landmark-depth-mask&theme=blueberry" alt="Crowd Detection with Depth Estimation" />
 				</a>
 			</td>
 		</tr>
