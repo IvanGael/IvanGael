@@ -3,7 +3,7 @@
 <h4>I'm Software Engineer and I have a lot of interest in the following topics :</h4>
 
 - Web/Mobile
-- Machine Learning and Computer Vision
+- Machine Learning, Deep Learning and Computer Vision
 
 <p align="left">
   <a href="https://skillicons.dev">
