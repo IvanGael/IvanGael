@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react,go,nodejs,flask,tensorflow,python,opencv,postgres,firebase,gcp" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,go,nodejs,flask,tensorflow,python,opencv,postgres,firebase,gcp,docker" />
   </a>
 </p>
 
