@@ -486,7 +486,7 @@ Playful dice rolling game built in Flutter 💙 with fun animations and faces cu
 </p>
 		</td>
 		<td>
-		<p>🔗 <a href="https://play.dashtronaut.app">Launch</a></p>
+		<p>🔗 <a href="https://ivangael.github.io/dice_game">Launch</a></p>
 <!-- <a href="https://play.google.com/store/apps/details?id=com.multicaret.flutter.puzzle.hack">
   <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Dashtronaut on Google Play" />
 </a>
