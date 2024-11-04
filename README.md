@@ -1,6 +1,6 @@
 <h3>Hi!</h3>
 
-<h4>I'm Software Engineer and I have a lot of interest in the following topics :</h4>
+<h4>I'm Software Engineer with a focus on apps building, AI-based solutions(Computer Vision, Machine Learning) and open-source projects</h4>
 
 - Web/Mobile
 - Machine Learning/Deep Learning and Computer Vision
