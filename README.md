@@ -552,6 +552,36 @@ A web platform & mobile app for assessing the level of companies in relation to 
 </a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+<img width="600px" src="https://i.ibb.co/4fS1f5Z/guardian-poster.jpg" alt="Guardian AI" />
+<h3>Guardian AI</h3>
+<p>
+AI Cybersecurity Companion and scam/fraud prevention mobile app built in Flutter 💙 for the <a href="https://ai.google.dev/competition?hl=fr">Google Gemini Competition</a>
+</p>
+<p>🎥 <a href="https://youtu.be/m6T1mizEnOs">Watch Submission</a></p>
+		</td>
+		<td>
+		<!-- <p>🔗 <a href="https://ivangael.github.io/dice_game" target="_blank">Launch</a></p> -->
+<!-- <a href="https://play.google.com/store/apps/details?id=com.multicaret.flutter.puzzle.hack">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Dashtronaut on Google Play" />
+</a>
+<br />
+<a href="https://apps.apple.com/us/app/dashtronaut/id1609418987">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Dashtronaut on iOS App Store" />
+</a>
+<br />
+<a href="https://apps.apple.com/us/app/dashtronaut/id1609418987">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318660-9fa21629-f903-4a6d-9dd2-ff3965bcd2ce.svg" alt="Dashtronaut on Mac App Store" />
+</a> -->
+<!-- <h4>Source code</h4>
+<div>
+  <a href="https://github.com/IvanGael/dice_game" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=dice_game&theme=blueberry" alt="Dice Game" />
+  </a>
+</div> -->
+		</td>
+	</tr>
 	</tbody>
 </table>
 
