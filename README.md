@@ -171,7 +171,7 @@
 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/whatsapp_onboarding.gif" alt="Whatsapp Onboarding UI"></img>
 			</td>
 			<td>
-				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/bottomsheet_based_onboarding.gif" alt="Bottomsheet based Onboarding UI"></img>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/gradient_based_onboarding.gif" alt="Gradient based Onboarding UI"></img>
 			</td>
 			<td>
 			<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/signin1.gif" alt="Signin UI"></img>
