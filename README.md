@@ -3,7 +3,7 @@
 <h4>I'm Software Engineer and I have a lot of interest in the following topics :</h4>
 
 - Web/Mobile
-- Machine Learning, Deep Learning and Computer Vision
+- Machine Learning/Deep Learning and Computer Vision
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -11,51 +11,7 @@
   </a>
 </p>
 
-<!--
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="Tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="Opencv logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo"  />
-  <img width="12" />
-</div>
--->
-
 <br>
-
-<!--
-## Stacks
-
-| [React](https://reactjs.org/) | [Ultralytics/Yolov](https://www.ultralytics.com/fr) | [NodeJs](https://nodejs.org/) | [Go](https://go.dev/) | [Flask](https://flask.palletsprojects.com/en/3.0.x/) | [Flutter](https://flutter.dev/) | [OpenCV](https://opencv.org/) | [Docker](https://www.docker.com/) | [GCP](https://cloud.google.com) | [Firebase](https://firebase.google.com/) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-| <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF" width="100"> | <img src="https://assets-global.website-files.com/646dd1f1a3703e451ba81ecc/6499468f33db295c5a1219ec_Ultralytics_mark_blue.svg" width="30" height="30"> | <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Go&color=007d9c&logo=go&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Flask&color=61DEFB&logo=flask&logoColor=FFFFFF" width="100"> | <img src="https://img.shields.io/static/v1?label=&message=Flutter&color=01DAFB&logo=flutter&logoColor=FFFFFF" width="100"> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="100"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="100"> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="100"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="100"> |
--->
-
-
-<!--
-## Projects and Organizations I contribute to
-
-| [GoFr](https://github.com/gofr-dev) | [Widgetbook](https://github.com/widgetbook) |
-| :---: | :---: |
-<img src="https://github.com/IvanGael/IvanGael/assets/75835662/9be73cde-6b3e-4387-8d16-f961424aca8c" width="50px" height="50px"> | <img src="https://github.com/IvanGael/IvanGael/assets/75835662/ac3e0db1-095b-4a6a-857f-da7565263b14" width="50px" height="50px">
--->
 
 <details>
   <summary>Computer Vision & CNN</summary>
@@ -201,46 +157,13 @@
 
 
 <details>
-  <summary>Flutter animations & UI</summary>
+  <summary>Animations & UI</summary>
 
   <table>
 	<tbody width="100%">
 		<tr>
-			<th>Gradient based Onboarding UI</th>	
-			<th>Bottomsheet based Onboarding UI</th>	
-			<th>Cinema based Onboarding UI</th>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/gradient_based_onboarding.gif" alt="Gradient based Onboarding UI"></img>
-			</td>
-			<td>
-				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/bottomsheet_based_onboarding.gif" alt="Bottomsheet based Onboarding UI"></img>
-			</td>
-			<td>
-			<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/cinema_based_onboarding.gif" alt="Cinema based Onboarding UI"></img>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
-				</a>
-			</td>
-		</tr>
-	<tr>
 			<th>Whatsapp Onboarding UI</th>	
-			<th>Particles based Splash UI</th>	
+			<th>Gradient based Onboarding UI</th>	
 			<th>Signin UI</th>
 		</tr>
 		<tr>
@@ -248,7 +171,7 @@
 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/whatsapp_onboarding.gif" alt="Whatsapp Onboarding UI"></img>
 			</td>
 			<td>
-				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/particles_based_splash.gif" alt="Particles based Splash UI"></img>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/bottomsheet_based_onboarding.gif" alt="Bottomsheet based Onboarding UI"></img>
 			</td>
 			<td>
 			<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/signin1.gif" alt="Signin UI"></img>
@@ -271,47 +194,14 @@
 				</a>
 			</td>
 		</tr>
-	<tr>
+		<tr>
 			<th>CountDown card timer</th>	
-			<th>Dino game</th>	
-			<th>Dragon ball fight animation</th>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/countdown_card_timer.gif" alt="CountDown card timer"></img>
-			</td>
-			<td>
-				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/dino_game.gif" alt="Dino game"></img>
-			</td>
-			<td>
-			<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/dragonball_fight_anim.gif" alt="Dragon ball fight animation"></img>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
-				</a>
-			</td>
-		</tr>
-	<tr>
-			<th>Elevator simulation</th>	
 			<th>Function curve tracer</th>	
 			<th>Snake game</th>
 		</tr>
 		<tr>
 			<td>
-				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/elevator_sim.gif" alt="Elevator simulation"></img>
+				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/countdown_card_timer.gif" alt="CountDown card timer"></img>
 			</td>
 			<td>
 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/function_rep_curve.gif" alt="Function curve tracer"></img>
@@ -437,46 +327,13 @@
 			</td>
 		</tr>
 	<tr>
-			<th>Sharigan to mangekyou animation</th>	
-			<th>Text typewriter animation</th>	
-			<th>Sharigan eye animation</th>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/sharigan_to_mangekyou.gif" alt="Sharigan to mangekyou animation"></img>
-			</td>
-			<td>
-				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/text_typewriter_anim.gif" alt="Text typewriter animation"></img>
-			</td>
-			<td>
-			<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/sharing_eye_anim.gif" alt="Sharigan eye animation"></img>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="https://github.com/IvanGael/flutter-funs/blob/main/lib/sharingan_to_mangekyou_screen.dart">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/IvanGael/flutter-funs/blob/main/lib/typewriter_text_animation.dart">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/IvanGael/flutter-funs/blob/main/lib/eye_modeling.dart">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
-				</a>
-			</td>
-		</tr>
-	<tr>
-			<th>Automate drawing app</th>
+			<th>Parallax autoScrolling</th>
 		<th>Glass filling up</th>
 		<th>Stopwatch</th>
 		</tr>
 		<tr>
 			<td>
-				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/atdr.gif" alt="Automate drawing app"></img>
+			<img src="https://github.com/IvanGael/IvanGael/assets/75835662/3226240c-0361-4cac-87e1-529289d58ebf" alt="Parallax autoScrolling"></img>
 			</td>
 	<td>
 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/lemon-chck.gif" alt="Glass filling up"></img>
@@ -487,8 +344,8 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/IvanGael/funs-animation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 			<td>
@@ -601,52 +458,12 @@
 				</a>
 			</td>
 		</tr>
-	<tr>
-			<th>Parallax autoScrolling</th>
-		<th>World countries</th>
-		<th>Music playing animated gradient background</th>
-		</tr>
-		<tr>
-			<td>
-			<img src="https://github.com/IvanGael/IvanGael/assets/75835662/3226240c-0361-4cac-87e1-529289d58ebf" alt="Parallax autoScrolling"></img>
-			</td>
-	<td>
-				<img src="https://github.com/IvanGael/IvanGael/assets/75835662/40f665a6-f0e1-4039-9aef-2a57aa9a54ff" alt="World countries"></img>
-			</td>
-	<td>
-				<img src="https://github.com/IvanGael/IvanGael/assets/75835662/e40c1a6e-3cc3-4d4a-bd47-cbc7027f2abb" alt="Music playing animated gradient background"></img>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
-				</a>
-			</td>
-			<td>
-				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
-				</a>
-			</td>
-		</tr>
 	</tbody>
 </table>
 
-
 </details>
 
-
 ---
-
-<!--
-## 📊 Stats
-![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&hide_title=false&theme=tokyonight
-) -->
 
 ![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&hide_title=false&theme=blueberry&hide_border=true
 )
