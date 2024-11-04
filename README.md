@@ -500,10 +500,59 @@ Playful dice rolling game built in Flutter 💙 with fun animations and faces cu
 </a> -->
 <h4>Source code</h4>
 <div>
-  <a href="https://github.com/IvanGael/dice_game">
+  <a href="https://github.com/IvanGael/dice_game" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=dice_game&theme=blueberry" alt="Dice Game" />
   </a>
 </div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+<img width="600px" src="https://i.ibb.co/fGrvSNk/Screenshot-2024-11-04-184721.png" alt="Image Toolbox" />
+<h3>Image Toolbox</h3>
+<p>
+Image processing tool suite web app built using NextJs/Tailwind/ShadcnUI with Python Flask backend
+</p>
+		</td>
+		<td>
+		<p>🔗 <a href="https://image-toolbox.netlify.app" target="_blank">Launch</a></p>
+<h4>Source code</h4>
+<div>
+  <a href="https://github.com/IvanGael/Image-Toolbox-Frontend/tree/newFrontendNextJS" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=Image-Toolbox-Frontend&theme=blueberry" alt="Image Toolbox" />
+  </a>
+</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+<img width="600px" src="https://i.ibb.co/LR8L8Xj/Screenshot-2024-11-04-184919.png" alt="Image Toolbox" />
+<h3>Delivery Tracker Simulator</h3>
+<p>
+Delivery tracker simulator built with React/MaterialUI with NodeJS backend
+</p>
+		</td>
+		<td>
+		<p>🔗 <a href="https://delivery-tracker-web.netlify.app/" target="_blank">Launch</a></p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+<img width="600px" src="https://i.ibb.co/TLf1KVb/Screenshot-2024-11-04-185041.png" alt="Diag'Ec" />
+<h3>Diag'Ec</h3>
+<p>
+A web platform & mobile app for assessing the level of companies in relation to circular economy built using NextJS, Flutter 💙 & Firebase
+</p>
+		</td>
+		<td>
+		<p>🔗 <a href="https://ivangael.github.io/dice_game" target="_blank">Launch</a></p>
+<a href="https://play.google.com/store/apps/details?id=fr.diagec.app&gl=FR">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Diag'Ec on Google Play" />
+</a>
+<br />
+<a href="https://apps.apple.com/fr/app/diagec/id6465952696" target="_blank">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Diag'Ec on iOS App Store" />
+</a>
 		</td>
 	</tr>
 	</tbody>
