@@ -1,4 +1,4 @@
-<h3>Hi!</h3>
+<h3>Hi🦊!</h3>
 
 <h4>I'm Software Engineer with a focus on apps building, AI-based solutions(Computer Vision, Machine Learning)</h4>
 
