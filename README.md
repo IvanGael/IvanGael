@@ -462,8 +462,11 @@
 
 ---
 
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&hide_title=false&theme=blueberry&hide_border=true" width="100"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&show_icons=true&locale=en&layout=compact&theme=blueberry&include_orgs=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" width="100"> 
+![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&hide_title=false&theme=blueberry&hide_border=true
+)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&show_icons=true&locale=en&layout=compact&theme=blueberry&include_orgs=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
