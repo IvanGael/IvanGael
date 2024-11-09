@@ -580,7 +580,7 @@ A web platform & mobile app for assessing the level of companies in relation to 
 </p>
 		</td>
 		<td>
-		<p>🔗 <a href="https://ivangael.github.io/dice_game" target="_blank">Launch</a></p>
+		<p>🔗 <a href="https://diagec.esaip.org" target="_blank">Launch</a></p>
 <a href="https://play.google.com/store/apps/details?id=fr.diagec.app&gl=FR">
   <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Diag'Ec on Google Play" />
 </a>
