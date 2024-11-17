@@ -461,12 +461,17 @@
 </details>
 
 ---
-
+<!--
 ![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&hide_title=false&theme=blueberry&hide_border=true
 )
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&show_icons=true&locale=en&layout=compact&theme=blueberry&include_orgs=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanGael&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanGael&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanGael&theme=blueberry)
 
 ---
 
@@ -593,6 +598,7 @@ A web platform & mobile app for assessing the level of companies in relation to 
 	</tbody>
 </table>
 
+<!--
 ---
 
 ![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&hide_title=false&theme=blueberry&hide_border=true
@@ -600,3 +606,4 @@ A web platform & mobile app for assessing the level of companies in relation to 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&show_icons=true&locale=en&layout=compact&theme=blueberry&include_orgs=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+-->
