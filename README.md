@@ -1,4 +1,4 @@
-<h3>Hi🦊!</h3>
+<h3>Hi!</h3>
 
 <h4>I'm Software Engineer with a focus on apps building, AI-based solutions(Computer Vision, Machine Learning)</h4>
 
@@ -470,8 +470,7 @@
 -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanGael&theme=blueberry)
-![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&hide_title=false&theme=blueberry&hide_border=true
-)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanGael&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanGael&theme=blueberry)
 
 ---
