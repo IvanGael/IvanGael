@@ -22,29 +22,29 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/IvanGael/Advanced-Lanes-Detection/blob/main/demo.png?raw=true" alt="Advanced Lanes Detection"></img>
+				<img src="https://github.com/iv4n-ga6l/Advanced-Lanes-Detection/blob/main/demo.png?raw=true" alt="Advanced Lanes Detection"></img>
 			</td>
 			<td>
-				<img src="https://github.com/IvanGael/SpeedEstimation_opencv/raw/main/demo.png" alt="Vehicles Speed Estimation"></img>
+				<img src="https://github.com/iv4n-ga6l/SpeedEstimation_opencv/raw/main/demo.png" alt="Vehicles Speed Estimation"></img>
 			</td>
 			<td>
-			<img src="https://github.com/IvanGael/Road_Traffic_Monitoring/raw/main/demo.png" alt="Road Traffic Monitoring"></img>
+			<img src="https://github.com/iv4n-ga6l/Road_Traffic_Monitoring/raw/main/demo.png" alt="Road Traffic Monitoring"></img>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/Advanced-Lanes-Detection">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=Advanced-Lanes-Detection&theme=blueberry" alt="Advanced-Lanes-Detection" />
+				<a href="https://github.com/iv4n-ga6l/Advanced-Lanes-Detection">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=Advanced-Lanes-Detection&theme=blueberry" alt="Advanced-Lanes-Detection" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/SpeedEstimation_opencv">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=SpeedEstimation_opencv&theme=blueberry" alt="Vehicles Speed Estimation" />
+				<a href="https://github.com/iv4n-ga6l/SpeedEstimation_opencv">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=SpeedEstimation_opencv&theme=blueberry" alt="Vehicles Speed Estimation" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/Road_Traffic_Monitoring">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=Road_Traffic_Monitoring&theme=blueberry" alt="Road Traffic Monitoring" />
+				<a href="https://github.com/iv4n-ga6l/Road_Traffic_Monitoring">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=Road_Traffic_Monitoring&theme=blueberry" alt="Road Traffic Monitoring" />
 				</a>
 			</td>
 		</tr>
@@ -55,29 +55,29 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/IvanGael/Bottle_Filling_Line_Automation/raw/main/demo.png" alt="Bottle Filling Automation"></img>
+				<img src="https://github.com/iv4n-ga6l/Bottle_Filling_Line_Automation/raw/main/demo.png" alt="Bottle Filling Automation"></img>
 			</td>
 			<td>
-				<img src="https://github.com/IvanGael/Object_Detection_With_Background_substractor/raw/main/demo.png" alt="Background Subtraction Object Detection"></img>
+				<img src="https://github.com/iv4n-ga6l/Object_Detection_With_Background_substractor/raw/main/demo.png" alt="Background Subtraction Object Detection"></img>
 			</td>
 			<td>
-			<img src="https://github.com/IvanGael/Airplane_monitoring_with_runway_detection/raw/main/demo.png" alt="Airplane Monitoring"></img>
+			<img src="https://github.com/iv4n-ga6l/Airplane_monitoring_with_runway_detection/raw/main/demo.png" alt="Airplane Monitoring"></img>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/Bottle_Filling_Line_Automation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=Bottle_Filling_Line_Automation&theme=blueberry" alt="Bottle Filling Automation" />
+				<a href="https://github.com/iv4n-ga6l/Bottle_Filling_Line_Automation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=Bottle_Filling_Line_Automation&theme=blueberry" alt="Bottle Filling Automation" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/Object_Detection_With_Background_substractor">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=Object_Detection_With_Background_substractor&theme=blueberry" alt="Background Subtraction Object Detection" />
+				<a href="https://github.com/iv4n-ga6l/Object_Detection_With_Background_substractor">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=Object_Detection_With_Background_substractor&theme=blueberry" alt="Background Subtraction Object Detection" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/Airplane_monitoring_with_runway_detection">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=Airplane_monitoring_with_runway_detection&theme=blueberry" alt="Airplane Monitoring" />
+				<a href="https://github.com/iv4n-ga6l/Airplane_monitoring_with_runway_detection">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=Airplane_monitoring_with_runway_detection&theme=blueberry" alt="Airplane Monitoring" />
 				</a>
 			</td>
 		</tr>
@@ -88,29 +88,29 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/IvanGael/FacesDetection-With-pixelation-and-blurring/raw/main/pixelation_demo.png" alt="Faces Anonymization"></img>
+				<img src="https://github.com/iv4n-ga6l/FacesDetection-With-pixelation-and-blurring/raw/main/pixelation_demo.png" alt="Faces Anonymization"></img>
 			</td>
 			<td>
-				<img src="https://github.com/IvanGael/human-motion-capture/raw/main/demo.png" alt="Human Motion Tracking"></img>
+				<img src="https://github.com/iv4n-ga6l/human-motion-capture/raw/main/demo.png" alt="Human Motion Tracking"></img>
 			</td>
 			<td>
-			<img src="https://github.com/IvanGael/BoxingWithML/raw/main/demo.png" alt="Fists Detection Boxing"></img>
+			<img src="https://github.com/iv4n-ga6l/BoxingWithML/raw/main/demo.png" alt="Fists Detection Boxing"></img>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/FacesDetection-With-pixelation-and-blurring">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=FacesDetection-With-pixelation-and-blurring&theme=blueberry" alt="Faces Anonymization" />
+				<a href="https://github.com/iv4n-ga6l/FacesDetection-With-pixelation-and-blurring">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=FacesDetection-With-pixelation-and-blurring&theme=blueberry" alt="Faces Anonymization" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/human-motion-capture">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=human-motion-capture&theme=blueberry" alt="Human Motion Tracking" />
+				<a href="https://github.com/iv4n-ga6l/human-motion-capture">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=human-motion-capture&theme=blueberry" alt="Human Motion Tracking" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/BoxingWithML">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=BoxingWithML&theme=blueberry" alt="Fists Detection Boxing" />
+				<a href="https://github.com/iv4n-ga6l/BoxingWithML">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=BoxingWithML&theme=blueberry" alt="Fists Detection Boxing" />
 				</a>
 			</td>
 		</tr>
@@ -121,29 +121,29 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/IvanGael/Face-And-ObjectDetection-With-Glasses-Overlay-And-Gender-Classification/raw/main/demo.png" alt="Obj Detection with Gender Classification"></img>
+				<img src="https://github.com/iv4n-ga6l/Face-And-ObjectDetection-With-Glasses-Overlay-And-Gender-Classification/raw/main/demo.png" alt="Obj Detection with Gender Classification"></img>
 			</td>
 			<td>
-				<img src="https://github.com/IvanGael/Objects_detection_with_neural_network_training_visualization/raw/main/demo1.png" alt="Obj Detection with Neural Networ Training Visualization"></img>
+				<img src="https://github.com/iv4n-ga6l/Objects_detection_with_neural_network_training_visualization/raw/main/demo1.png" alt="Obj Detection with Neural Networ Training Visualization"></img>
 			</td>
 			<td>
-			<img src="https://github.com/IvanGael/Person-Detection-In-Video-with-landmark-depth-mask/raw/main/demo2.png" alt="Crowd Detection with Depth Estimation"></img>
+			<img src="https://github.com/iv4n-ga6l/Person-Detection-In-Video-with-landmark-depth-mask/raw/main/demo2.png" alt="Crowd Detection with Depth Estimation"></img>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/Face-And-ObjectDetection-With-Glasses-Overlay-And-Gender-Classification">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=FacesDetection-With-pixelation-and-blurring&theme=blueberry" alt="Obj Detection with Gender Classification" />
+				<a href="https://github.com/iv4n-ga6l/Face-And-ObjectDetection-With-Glasses-Overlay-And-Gender-Classification">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=FacesDetection-With-pixelation-and-blurring&theme=blueberry" alt="Obj Detection with Gender Classification" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/Objects_detection_with_neural_network_training_visualization">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=human-motion-capture&theme=blueberry" alt="Obj Detection with Neural Networ Training Visualization" />
+				<a href="https://github.com/iv4n-ga6l/Objects_detection_with_neural_network_training_visualization">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=human-motion-capture&theme=blueberry" alt="Obj Detection with Neural Networ Training Visualization" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/Person-Detection-In-Video-with-landmark-depth-mask">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=Person-Detection-In-Video-with-landmark-depth-mask&theme=blueberry" alt="Crowd Detection with Depth Estimation" />
+				<a href="https://github.com/iv4n-ga6l/Person-Detection-In-Video-with-landmark-depth-mask">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=Person-Detection-In-Video-with-landmark-depth-mask&theme=blueberry" alt="Crowd Detection with Depth Estimation" />
 				</a>
 			</td>
 		</tr>
@@ -176,18 +176,18 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -209,18 +209,18 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -242,18 +242,18 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -275,18 +275,18 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -308,18 +308,18 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -330,7 +330,7 @@
 		</tr>
 		<tr>
 			<td>
-			<img src="https://github.com/IvanGael/IvanGael/assets/75835662/3226240c-0361-4cac-87e1-529289d58ebf" alt="Parallax autoScrolling"></img>
+			<img src="https://github.com/iv4n-ga6l/iv4n-ga6l/assets/75835662/3226240c-0361-4cac-87e1-529289d58ebf" alt="Parallax autoScrolling"></img>
 			</td>
 	<td>
 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/lemon-chck.gif" alt="Glass filling up"></img>
@@ -341,18 +341,18 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
+				<a href="https://github.com/iv4n-ga6l/funs-animation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -374,18 +374,18 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/flutter-funs">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
+				<a href="https://github.com/iv4n-ga6l/flutter-funs">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=flutter-funs&theme=blueberry" alt="Flutter funs" />
 				</a>
 			</td>
 		</tr>
@@ -396,10 +396,10 @@
 		</tr>
 		<tr>
 			<td>
-			<img src="https://github.com/IvanGael/IvanGael/assets/75835662/ddc02193-2221-4fb7-8330-17367e8c8c49" alt="Countdown timer with dynamic color changes"></img>
+			<img src="https://github.com/iv4n-ga6l/iv4n-ga6l/assets/75835662/ddc02193-2221-4fb7-8330-17367e8c8c49" alt="Countdown timer with dynamic color changes"></img>
 			</td>
 	<td>
-				<img src="https://github.com/IvanGael/IvanGael/assets/75835662/b8133469-78f6-481b-8694-658e92714ba4" alt="Gallery carousel"></img>
+				<img src="https://github.com/iv4n-ga6l/iv4n-ga6l/assets/75835662/b8133469-78f6-481b-8694-658e92714ba4" alt="Gallery carousel"></img>
 			</td>
 	<td>
 				<img src="https://storage.googleapis.com/buildship-vos7yw-europe-west1/uploaded-files/flip_book.gif" alt="A flip book animation transitioning between images."></img>
@@ -407,18 +407,18 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
+				<a href="https://github.com/iv4n-ga6l/funs-animation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
+				<a href="https://github.com/iv4n-ga6l/funs-animation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
+				<a href="https://github.com/iv4n-ga6l/funs-animation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 		</tr>
@@ -429,29 +429,29 @@
 		</tr>
 		<tr>
 			<td>
-			<img src="https://github.com/IvanGael/IvanGael/assets/75835662/efb57e14-0da8-4ee5-af93-5466d7312b5c" alt="Interactive plate menu"></img>
+			<img src="https://github.com/iv4n-ga6l/iv4n-ga6l/assets/75835662/efb57e14-0da8-4ee5-af93-5466d7312b5c" alt="Interactive plate menu"></img>
 			</td>
 	<td>
-				<img src="https://github.com/IvanGael/IvanGael/assets/75835662/f004c95f-9f39-4cde-8ac0-b7daa8b1033b" alt="Zoom on image"></img>
+				<img src="https://github.com/iv4n-ga6l/iv4n-ga6l/assets/75835662/f004c95f-9f39-4cde-8ac0-b7daa8b1033b" alt="Zoom on image"></img>
 			</td>
 	<td>
-				<img src="https://github.com/IvanGael/IvanGael/assets/75835662/198c0477-0db5-469b-8a0f-21255a1f593a" alt="Pan across a panoramic image"></img>
+				<img src="https://github.com/iv4n-ga6l/iv4n-ga6l/assets/75835662/198c0477-0db5-469b-8a0f-21255a1f593a" alt="Pan across a panoramic image"></img>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
+				<a href="https://github.com/iv4n-ga6l/funs-animation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
+				<a href="https://github.com/iv4n-ga6l/funs-animation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 			<td>
-				<a href="https://github.com/IvanGael/funs-animation">
-					<img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=funs-animation&theme=blueberry" alt="Funs animation" />
+				<a href="https://github.com/iv4n-ga6l/funs-animation">
+					<img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=funs-animation&theme=blueberry" alt="Funs animation" />
 				</a>
 			</td>
 		</tr>
@@ -462,16 +462,16 @@
 
 ---
 <!--
-![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&hide_title=false&theme=blueberry&hide_border=true
+![iv4n-ga6l's GitHub stats](https://github-readme-stats.vercel.app/api?username=iv4n-ga6l&show_icons=true&count_private=true&hide_title=false&theme=blueberry&hide_border=true
 )
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&show_icons=true&locale=en&layout=compact&theme=blueberry&include_orgs=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iv4n-ga6l&show_icons=true&locale=en&layout=compact&theme=blueberry&include_orgs=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanGael&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanGael&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanGael&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iv4n-ga6l&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iv4n-ga6l&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iv4n-ga6l&theme=blueberry)
 
 ---
 
@@ -497,7 +497,7 @@ AI Cybersecurity Companion and scam/fraud prevention mobile app built in Flutter
 <p>🎥 <a href="https://youtu.be/m6T1mizEnOs">Watch Submission</a></p>
 		</td>
 		<td>
-		<!-- <p>🔗 <a href="https://ivangael.github.io/dice_game" target="_blank">Launch</a></p> -->
+		<!-- <p>🔗 <a href="https://iv4n-ga6l.github.io/dice_game" target="_blank">Launch</a></p> -->
 <!-- <a href="https://play.google.com/store/apps/details?id=com.multicaret.flutter.puzzle.hack">
   <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Dashtronaut on Google Play" />
 </a>
@@ -511,8 +511,8 @@ AI Cybersecurity Companion and scam/fraud prevention mobile app built in Flutter
 </a> -->
 <!-- <h4>Source code</h4>
 <div>
-  <a href="https://github.com/IvanGael/dice_game" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=dice_game&theme=blueberry" alt="Dice Game" />
+  <a href="https://github.com/iv4n-ga6l/dice_game" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=dice_game&theme=blueberry" alt="Dice Game" />
   </a>
 </div> -->
 		</td>
@@ -526,7 +526,7 @@ Playful dice rolling game built in Flutter 💙 with fun animations and faces cu
 </p>
 		</td>
 		<td>
-		<p>🔗 <a href="https://ivangael.github.io/dice_game" target="_blank">Launch</a></p>
+		<p>🔗 <a href="https://iv4n-ga6l.github.io/dice_game" target="_blank">Launch</a></p>
 <!-- <a href="https://play.google.com/store/apps/details?id=com.multicaret.flutter.puzzle.hack">
   <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Dashtronaut on Google Play" />
 </a>
@@ -540,8 +540,8 @@ Playful dice rolling game built in Flutter 💙 with fun animations and faces cu
 </a> -->
 <h4>Source code</h4>
 <div>
-  <a href="https://github.com/IvanGael/dice_game" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=dice_game&theme=blueberry" alt="Dice Game" />
+  <a href="https://github.com/iv4n-ga6l/dice_game" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=dice_game&theme=blueberry" alt="Dice Game" />
   </a>
 </div>
 		</td>
@@ -558,8 +558,8 @@ Image processing tool suite web app built using NextJs/Tailwind/ShadcnUI with Py
 		<p>🔗 <a href="https://image-toolbox.netlify.app" target="_blank">Launch</a></p>
 <h4>Source code</h4>
 <div>
-  <a href="https://github.com/IvanGael/Image-Toolbox-Frontend/tree/newFrontendNextJS" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IvanGael&repo=Image-Toolbox-Frontend&theme=blueberry" alt="Image Toolbox" />
+  <a href="https://github.com/iv4n-ga6l/Image-Toolbox-Frontend/tree/newFrontendNextJS" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iv4n-ga6l&repo=Image-Toolbox-Frontend&theme=blueberry" alt="Image Toolbox" />
   </a>
 </div>
 		</td>
@@ -601,9 +601,9 @@ A web platform & mobile app for assessing the level of companies in relation to 
 <!--
 ---
 
-![IvanGael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGael&show_icons=true&count_private=true&hide_title=false&theme=blueberry&hide_border=true
+![iv4n-ga6l's GitHub stats](https://github-readme-stats.vercel.app/api?username=iv4n-ga6l&show_icons=true&count_private=true&hide_title=false&theme=blueberry&hide_border=true
 )
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGael&show_icons=true&locale=en&layout=compact&theme=blueberry&include_orgs=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iv4n-ga6l&show_icons=true&locale=en&layout=compact&theme=blueberry&include_orgs=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 -->
