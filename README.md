@@ -58,7 +58,7 @@
 				<img src="https://github.com/iv4n-ga6l/Bottle_Filling_Line_Automation/raw/main/demo.png" alt="Bottle Filling Automation"></img>
 			</td>
 			<td>
-				<img src="https://github.com/iv4n-ga6l/Object_Detection_With_Background_substractor/raw/main/demo.png" alt="Background Subtraction Object Detection"></img>
+				<img src="https://i.ibb.co/p1h5V5B/385190769-25c9f387-a1da-4b7a-8887-435a03b435d0.png" alt="Background Subtraction Object Detection"></img>
 			</td>
 			<td>
 			<img src="https://github.com/iv4n-ga6l/Airplane_monitoring_with_runway_detection/raw/main/demo.png" alt="Airplane Monitoring"></img>
