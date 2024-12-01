@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,go,nodejs,flask,tensorflow,pytorch,sklearn,python,opencv,streamlit,firebase,gcp,docker" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,go,nodejs,flask,tensorflow,pytorch,sklearn,python,opencv,firebase,gcp,docker" />
   </a>
 </p>
 
