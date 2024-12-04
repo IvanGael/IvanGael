@@ -152,7 +152,7 @@
 	
 </details>
 
-
+<!--
 <details>
   <summary>Animations & UI</summary>
 
@@ -459,6 +459,7 @@
 </table>
 
 </details>
+-->
 
 ---
 <!--
