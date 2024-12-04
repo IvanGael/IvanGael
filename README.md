@@ -1,6 +1,6 @@
 <h3>Hi!</h3>
 
-<h4>I'm Software Engineer with a focus on mobile apps, AI-based solutions(Computer Vision, Machine Learning)</h4>
+<h4>I'm Software Engineer with a focus on apps building, Machine Learning & Computer Vision</h4>
 
 <p align="left">
   <a href="https://skillicons.dev">
