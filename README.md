@@ -577,6 +577,7 @@ Delivery tracker simulator built with React/MaterialUI with NodeJS backend
 		<p>🔗 <a href="https://delivery-tracker-web.netlify.app/" target="_blank">Launch</a></p>
 		</td>
 	</tr>
+	  <!--
 	<tr>
 		<td>
 <img width="600px" src="https://i.ibb.co/TLf1KVb/Screenshot-2024-11-04-185041.png" alt="Diag'Ec" />
@@ -596,6 +597,7 @@ A web platform & mobile app for assessing the level of companies in relation to 
 </a>
 		</td>
 	</tr>
+	  -->
 	</tbody>
 </table>
 
